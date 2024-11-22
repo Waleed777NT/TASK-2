@@ -39,7 +39,7 @@ namespace TASK_2
             Console.Clear();
             string input = "00000000000";
             Console.Write("Enter Number To Add : ");
-            input = Console.ReadLine() ?? "01065562301";
+            input = Console.ReadLine() ?? "01062767571";
             while (users.ContainsKey(input))
             {
                 Console.Write("\nContact Already Exists\nEnter Number Again : ");
