@@ -13,16 +13,16 @@ namespace TASK_2
 
         public Contacts()
         {
-            users.Add("01065562301", new Users("Ahemd", "Elrweny", "01065562301"));
-            users.Add("01235594445", new Users("Khaled", "Osman", "01235594445"));
-            users.Add("010023155688", new Users("Omar", "gamal", "010023155688"));
-            users.Add("01234567891", new Users("Osama", "AboSe2daa", "01234567891"));
-            users.Add("01002547895", new Users("Elsaid", "Khairy", "01002547895"));
-            users.Add("14785412457", new Users("Esmaeel", "Elsawy", "14785412457"));
-            users.Add("36521014785", new Users("Ahmed", "Elgamal", "36521014785"));
-            users.Add("01023569845", new Users("Ali", "Gom3aa", "01023569845"));
-            users.Add("01024558799", new Users("Waleed", "Tantawy", "01024558799"));
-            users.Add("01002589631", new Users("Gana", "Rashid", "01002589631"));
+            users.Add("01062767571", new Users("fahmy", "aboshabana", "01062767571"));
+            users.Add("01559967571", new Users("fahmy", "aboshaban#2", "01559967571"));
+            users.Add("01019389953", new Users("waleed", "tatntawy", "01019389953"));
+            users.Add("01004746807", new Users("nashaat", "tantawy", "01004746807"));
+            users.Add("01094493819", new Users("moaz", "mohsen", "01094493819"));
+            users.Add("01099300572", new Users("HOS", "THE BOS", "01099300572"));
+            users.Add("01091251806", new Users("yousef", "oraby", "01091251806"));
+            users.Add("01557076117", new Users("karim", "Gom3aa", "01557076117"));
+            users.Add("01066502150", new Users("ahmed", "fahmy", "01066502150"));
+            users.Add("01000111252", new Users("Gana", "Rashid", "01000111252"));
             users.Add("01252147896", new Users("Mairem", "Elnagar", "01252147896"));
             users.Add("01124785692", new Users("Noor", "Ashoor", "01124785692"));
             users.Add("01025874125", new Users("Osam", "Elsaid", "01025874125"));
